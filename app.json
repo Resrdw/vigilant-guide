@@ -3,7 +3,7 @@
     "description": "Access guide",
     "env": {
         "PASSWORD": {
-            "description": "Trojan-Go PASSWORD",
+            "description": "PASSWORD",
             "value": "password"
         }
     },
